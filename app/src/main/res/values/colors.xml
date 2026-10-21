@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="teal">#00796B</color>
+    <color name="teal_dark">#004D40</color>
+    <color name="surface">#F5F7F9</color>
+    <color name="border">#D3D9DF</color>
+    <color name="text_primary">#1A1A1A</color>
+    <color name="text_secondary">#6B7280</color>
+    <color name="star">#FFB300</color>
+    <color name="star_empty">#E0E0E0</color>
+    <color name="danger">#D32F2F</color>
+</resources>
